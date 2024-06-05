@@ -1,2 +1,2 @@
 # Hello-World
-Just a way thing to learn github flow.
+Just a way to learn github flow.
